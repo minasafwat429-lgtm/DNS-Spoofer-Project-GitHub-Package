@@ -8,18 +8,18 @@ This project intercepts DNS packets and demonstrates how DNS responses can be mo
 
 
 ## Installation
-1. Clone Repository
+## 1. Clone Repository
    ```
     git clone https://github.com/YOUR_USERNAME/DNS-Spoofer.git
     cd DNS-Spoofer
 
-
-3. Install Requirements
+```
+## 3. Install Requirements
    ```
     pip install -r requirements.txt
 
-
-5. Install Linux Dependency
+```
+## 5. Install Linux Dependency
  ``` Ubuntu / Kali Linux:
        sudo apt install libnetfilter-queue-dev
 ```
@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 
 
-##Usage
+## Usage
 
 Run the script:
 ```
@@ -45,7 +45,7 @@ ________________________________________________________________________________
 
 
 
-Educational Purpose
+## Educational Purpose
 
 This project was created for:
 
