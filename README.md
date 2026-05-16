@@ -21,6 +21,38 @@ This project intercepts DNS packets and demonstrates how DNS responses can be mo
 
 5. Install Linux Dependency
  ``` Ubuntu / Kali Linux:
-    sudo apt install libnetfilter-queue-dev
+       sudo apt install libnetfilter-queue-dev
+```
 
-   
+_________________________________________________________________________________________________
+
+
+
+Usage
+
+Run the script:
+```
+sudo python3 dns_spoofer.py
+```
+Example output:
+```
+[+] DNS Query for: www.bing.com
+[+] Spoofing target: www.bing.com
+```
+
+__________________________________________________________________________________________________
+
+
+
+
+Educational Purpose
+
+This project was created for:
+
+Cybersecurity education
+Network traffic analysis
+Understanding DNS protocol behavior
+Ethical hacking lab demonstrations
+Security awareness training
+
+Do not use this project on networks or systems without authorization.
